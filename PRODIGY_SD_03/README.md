@@ -1,3 +1,3 @@
-Task 03 of Software Development Intern at ProdigyInfoTech
-Contact System Management Software
+Task 03 : Contact System Management Software
+
    This Contact management system is developed using Java, Swing and JDBC(Java DataBase Connectivity) which is a standard API that allows Java program to access the Database. The Application seamlessly interacts with a MYSQL Database, employing SQL queries to fetch and manage the data. It allows the users to efficiently manage their Contacts, providing functionalities such as adding new contact, editing a exisiting contact and the ability to delete the contact as needed and also Users can able to Export contacts data from the Database into a file for convenient access.

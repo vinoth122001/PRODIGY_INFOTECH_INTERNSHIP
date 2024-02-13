@@ -1,0 +1,3 @@
+Task 4: Implement a Sudoku Solver
+
+  I developed this Sudoku Solver application using Java and Swing to enhance the GUI. This Sudoku Solver automates the solving process using backtracking, an algorithmic technique that exhaustively searches for every possible combination to solve computational problems.  The application provides a 9x9 grid interface, allowing users to input their unsolved Sudoku puzzle. The program then processes that input grid and applies the backtracking algorithm to solve. Upon completion, the application dynamically displays the solved puzzle within the grid, filling in the missing numbers to achieve a complete solution.

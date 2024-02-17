@@ -1,1 +1,5 @@
-Task 5
+Task 5: Web Scraping
+
+I Crafted this Web Scraper using Java and JSoup, a Java library providing a convenient API for extracting and manipulating data from HTML documents. Expanding the functionality of the Web Scraper, I integrated it with a GUI using Java Swing to transform it into an interactive application. Utilizing Flipkart as the primary source for data extraction, the program retrieves product information such as names, prices, ratings, and corresponding URL links.	The Application interface allows users to input the product information and initiate the scraping process with ease. The implementation involves a combination of web scraping technique and Web Crawling logic, the Scraper navigate through web pages using the pagination links to retrieve the product information and stores the data in a CSV file.  To efficiently manage the vast volume of data on Flipkart, the program incorporates a limit variable, controlling the number of iterations through web pages, ensuring efficient data collection while maintaining system resources.
+
+Note : The Application is designed to extract publicly availabe data from FlipKart's platform solely for educational exploration and demonstration of web scraping techniques, not intended for commercial or competitve purposes.
